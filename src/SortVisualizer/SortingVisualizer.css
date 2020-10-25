@@ -1,0 +1,39 @@
+.array-bar{
+    width: 10px;
+    background-color: blueviolet; 
+    display: inline;
+    margin: 0 5px;
+  
+}
+.array-container{
+    display: flex;
+    align-self:center;
+    justify-content: center;
+    margin: 2px 50px;
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color:green;
+}
+
+#arrayS{
+    width: 30px;
+}
+body{
+    background-color: #0F1724;
+}
+.navbar{
+    background-color: #1D2636;
+    height: 50px;
+    color: honeydew;
+}
+button{
+    background-color: #11ECE5;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    margin: 10px 10px;
+}
